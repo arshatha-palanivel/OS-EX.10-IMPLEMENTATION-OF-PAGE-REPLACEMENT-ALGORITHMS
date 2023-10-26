@@ -102,6 +102,8 @@ printf("\nThe no of page faults is %d",c);
 ``````
 ### OUTPUT
 
+![10 1](https://github.com/arshatha-palanivel/OS-EX.10-IMPLEMENTATION-OF-PAGE-REPLACEMENT-ALGORITHMS/assets/118682484/4fb68ec7-e298-42d5-a6df-10ed998c2245)
+
 
 ### RESULT
 Thus the implementation of LRU page replacement is successfully executed.
